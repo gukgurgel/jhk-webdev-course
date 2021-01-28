@@ -1,0 +1,21 @@
+li.menu-item {
+    border-width: thin;
+    border-style: solid none;
+}
+
+li.menu-item>a {
+    margin-bottom: 0px;
+    /* there was a strangen margin of 8px */
+}
+
+div#menu {
+    background-color: coral;
+}
+
+h3#home-title {
+    margin: 20px 0px;
+}
+
+#desc-text {
+    background-color: gray;
+}
